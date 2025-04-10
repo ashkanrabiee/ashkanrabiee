@@ -5,6 +5,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+build+beautiful+web+apps+with+Laravel+and+PHP!;Let's+create+amazing+things+together!" alt="Typing SVG" />
 </p>
 
+## 🔍 About Me
+
+I'm a passionate Full-stack Developer with a strong focus on PHP, Laravel, and web application development. Over the years, I've honed my skills in building scalable applications that drive user engagement and enhance performance. My primary goal is to create clean, efficient, and well-architected code that solves real-world problems.
+
+💡 **Tech Stack**:  
+- **Backend**: PHP, Laravel, MySQL, API Development
+- **Frontend**: JavaScript, Vue.js, HTML5, CSS3, Bootstrap
+- **DevOps**: Git, Docker, Linux Server
+- **Tools**: Postman, Composer, NPM, AWS
+
+## 🎯 My Goals
+
+My professional journey revolves around mastering the art of **web application development** and continuously pushing the boundaries of what's possible with Laravel. Currently, I am focused on:
+
+- Developing **scalable e-commerce platforms** using Laravel and PHP.
+- Exploring the latest **DevOps technologies** to streamline the deployment process.
+- Improving my **frontend skills** with modern JavaScript frameworks like Vue.js and React.
+- Contributing to open-source projects and helping fellow developers grow.
+- Building **innovative solutions** that help businesses optimize their processes and deliver better user experiences.
+
+I'm always learning and evolving as a developer, striving to stay at the forefront of new technologies and development trends.
+
+
+
 <h3 align="center">🌐 Connect with me on Social Media:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ashkan-rabiee" target="_blank">
@@ -47,15 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </p>
 
-<h3 align="center">📈 GitHub Contributions</h3>
-<p align="center">
-  <img src="https://ghchart.rshang.in/?user=ashkanrabiee&theme=radical" alt="Ashkan's GitHub Contributions" width="400" />
-</p>
 
 
 
 
-👀 Visitor Count
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashkanrabiee&label=Profile+Views&color=blue&style=flat" />
 </p>
