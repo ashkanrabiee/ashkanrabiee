@@ -72,11 +72,28 @@ class AshkanRabiee extends FullStackDeveloper
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashkanrabiee&label=Profile+Views&color=blue&style=flat" />
 </p>
+📈 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashkanrabiee&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&langs_count=8&theme=nightowl"/> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashkanrabiee&theme=nightowl" alt="ashkanrabiee" /> </p>
+🏆 Achievements
+🥇 Developed a Laravel package with 500+ monthly downloads
 
-🎨 Themes & Customization
-✨ Inspired by minimalistic design and developer-friendly visuals
-🖌 Colors carefully chosen to reflect creativity and professionalism
-🧩 Open to suggestions for further customization—let me know what you think!
-📜 Acknowledgments
-Special thanks to all developers who share their knowledge and inspire others
-This README is powered by GitHub Readme Stats and Typing SVG
+🚀 Optimized application performance by 70% through query optimization
+
+💡 Created an open-source starter kit for Laravel projects
+
+📫 Let's Connect
+<p align="center"> <a href="mailto:ashkanrabiee52@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/ashkan-rabiee"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/ashkan.rabiee"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=ashkanrabiee&label=Profile+Views&color=0e75b6&style=flat" alt="ashkanrabiee" /> </p>
+💭 Developer Thoughts
+"The best code is no code at all. When code is necessary, make it clean, make it readable, and make it maintainable."
+```bash
+// When I'm not coding, you can find me:
+function freeTimeActivities() {
+  return [
+    '📚 Reading tech blogs',
+    '🎧 Listening to coding podcasts',
+    '🌱 Contributing to open source',
+    '☕ Brewing the perfect cup of coffee'
+  ];
+}
+
+```
