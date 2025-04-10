@@ -6,7 +6,8 @@
 </p>
 
 
-<h3 align="center">🔍 About Me</h3>
+## 🔍 About Me
+
 I'm a passionate Full-stack Developer with a strong focus on PHP, Laravel, and web application development. Over the years, I've honed my skills in building scalable applications that drive user engagement and enhance performance. My primary goal is to create clean, efficient, and well-architected code that solves real-world problems.
 
 💡 **Tech Stack**:  
@@ -15,7 +16,8 @@ I'm a passionate Full-stack Developer with a strong focus on PHP, Laravel, and w
 - **DevOps**: Git, Docker, Linux Server
 - **Tools**: Postman, Composer, NPM, AWS
 
-<h3 align="center">🎯 My Goals</h3>
+## 🎯 My Goals
+
 My professional journey revolves around mastering the art of **web application development** and continuously pushing the boundaries of what's possible with Laravel. Currently, I am focused on:
 
 - Developing **scalable e-commerce platforms** using Laravel and PHP.
