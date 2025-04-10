@@ -41,16 +41,16 @@
 </p>
 
 
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashkanrabiee&show_icons=true&theme=radical&hide_title=true" alt="Ashkan's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashkanrabiee&theme=radical&hide_title=true" alt="Ashkan's GitHub Streak" width="400" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=ashkanrabiee&theme=radical&hide_title=true" alt="Ashkan's GitHub Activity Graph" width="400" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="800" />
 </p>
+
 
 
 👀 Visitor Count
