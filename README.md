@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a **Full-featured E-commerce project** with Laravel  
 - 🌱 I’m constantly learning **API development**, **performance tuning**, and **advanced Laravel tools**  
 - 💬 Ask me about: Laravel, PHP, MySQL, API Design, Clean Code  
-- 📫 How to reach me: ashkan.rabiee[at]email.com  
+- 📫 How to reach me: ashkanrabiee52@gmail.com  
 - 😄 Fun fact: I drink more code than coffee ☕️
 
 ---
