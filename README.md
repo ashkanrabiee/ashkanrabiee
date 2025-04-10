@@ -32,18 +32,16 @@ I'm always learning and evolving as a developer, striving to stay at the forefro
 
 <h3 align="center">🌐 Connect with me on Social Media:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ashkan-rabiee" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ashkan-rabiee-888864283" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=lin" />
   </a>
-  <a href="https://t.me/ashkan_rabiee" target="_blank">
+  <a href="https://t.me/Alph_ashkan" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ashkan.rabiee" target="_blank">
+  <a href="https://www.instagram.com/ashkan.rabiee?igsh=MWw4ZWI5a2s3OTU3eA==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ashkan_rabiee" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+ 
 </p>
 
 <h3 align="center">💻 Languages & Tools</h3>
