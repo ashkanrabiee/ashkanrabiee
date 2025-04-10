@@ -21,8 +21,7 @@
   </a>
 </p>
 
-
-💻 Languages & Tools
+<h3 align="center">💻 Languages & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
