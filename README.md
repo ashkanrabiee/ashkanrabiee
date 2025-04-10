@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full-stack PHP/Laravel Developer from Iran 🇮🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I'm+a+Laravel+lover+%F0%9F%92%96;I+build+awesome+web+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+love+Laravel+and+build+amazing+web+apps+🚀;Join+me+on+my+coding+journey!" alt="Typing SVG" />
 </p>
+
 
 ---
 
