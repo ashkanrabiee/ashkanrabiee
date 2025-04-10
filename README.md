@@ -5,44 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+build+beautiful+web+apps+with+Laravel+and+PHP!;Let's+create+amazing+things+together!" alt="Typing SVG" />
 </p>
 
-<h4 align="center">🛠️ Technologies I Love:</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
-<h4 align="center">🔍 Current Focus:</h4>
-<p align="center">Building scalable, high-performance e-commerce platforms with Laravel and modern web technologies.</p>
-
-<h4 align="center">💡 Motto:</h4>
-<p align="center">"Turning coffee ☕ into clean, efficient code since 2018"</p>
-
-<p align="center">
-  <a href="https://instagram.com/ashkan.rabiee" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ashkan-rabiee" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashkanrabiee52@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ashkan_rabiee" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📈 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashkanrabiee&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" />
-</p>
 
 
 💻 Languages & Tools
