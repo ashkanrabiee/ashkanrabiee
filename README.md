@@ -44,7 +44,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashkanrabiee&show_icons=true&theme=radical" alt="Ashkan's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&theme=radical" alt="Top Languages" width="300" />
+</p>
+
+<h3 align="center">📈 GitHub Contributions</h3>
+<p align="center">
+  <img src="https://ghchart.rshang.in/?user=ashkanrabiee&theme=radical" alt="Ashkan's GitHub Contributions" width="400" />
 </p>
 
 
