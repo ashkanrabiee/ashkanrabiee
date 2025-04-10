@@ -5,6 +5,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+build+beautiful+web+apps+with+Laravel+and+PHP!;Let's+create+amazing+things+together!" alt="Typing SVG" />
 </p>
 
+<h3 align="center">🌐 Connect with me on Social Media:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ashkan-rabiee" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ashkan_rabiee" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ashkan.rabiee" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ashkan_rabiee" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 
 💻 Languages & Tools
