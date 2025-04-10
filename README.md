@@ -5,14 +5,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+love+Laravel+and+building+amazing+web+apps+🚀;Join+me+on+my+coding+journey!" alt="Typing SVG" />
 </p>
 
-🌟 About Me
-🔭 Currently working on a Full-featured E-commerce Platform using Laravel
-🌱 Exploring advanced topics like API Development , Performance Optimization , and Microservices Architecture
-💡 Passionate about writing Clean Code and building scalable applications
-🛠 Tools of choice: Laravel, PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap
-📚 Learning new technologies every day to stay ahead in the game
-🎯 Fun fact: I debug more code than I drink coffee ☕️
-🤝 Let’s Connect
+```bash
+<?php
+
+namespace Developers;
+
+class AshkanRabiee extends FullStackDeveloper
+{
+    public string $location = 'Iran';
+    public array $skills = [
+        'Backend' => ['PHP', 'Laravel', 'MySQL', 'API Development'],
+        'Frontend' => ['JavaScript', 'Vue.js', 'HTML5', 'CSS3', 'Bootstrap'],
+        'DevOps' => ['Git', 'Docker', 'Linux Server'],
+        'Tools' => ['Postman', 'Composer', 'NPM']
+    ];
+    
+    public function currentFocus(): string
+    {
+        return 'Building scalable e-commerce platforms with Laravel';
+    }
+    
+    public function motto(): string
+    {
+        return "Turning coffee ☕ into clean, efficient code since 2018";
+    }
+}
+
+```
+
 <p align="center">
 <a href="https://instagram.com/ashkan.rabiee" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
