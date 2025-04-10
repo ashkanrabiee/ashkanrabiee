@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;I+build+beautiful+web+apps+with+Laravel+and+PHP!;Let's+create+amazing+things+together!" alt="Typing SVG" />
 </p>
 
-## 🔍 About Me
 
+<h3 align="center">🔍 About Me</h3>
 I'm a passionate Full-stack Developer with a strong focus on PHP, Laravel, and web application development. Over the years, I've honed my skills in building scalable applications that drive user engagement and enhance performance. My primary goal is to create clean, efficient, and well-architected code that solves real-world problems.
 
 💡 **Tech Stack**:  
@@ -15,8 +15,7 @@ I'm a passionate Full-stack Developer with a strong focus on PHP, Laravel, and w
 - **DevOps**: Git, Docker, Linux Server
 - **Tools**: Postman, Composer, NPM, AWS
 
-## 🎯 My Goals
-
+<h3 align="center">🎯 My Goals</h3>
 My professional journey revolves around mastering the art of **web application development** and continuously pushing the boundaries of what's possible with Laravel. Currently, I am focused on:
 
 - Developing **scalable e-commerce platforms** using Laravel and PHP.
