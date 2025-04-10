@@ -47,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanrabiee&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 
-<h3 align="center">📈 GitHub Contributions</h3>
-<p align="center">
-  <img src="https://ghchart.rshang.in/?user=ashkanrabiee&theme=radical" alt="Ashkan's GitHub Contributions" width="400" />
-</p>
-
 
 
 
