@@ -49,7 +49,7 @@
 
 <h3 align="center">📈 GitHub Contributions</h3>
 <p align="center">
-  <img src="https://ghchart.rshang.in/?user=ashkanrabiee&theme=radical" alt="Ashkan's GitHub Contributions" width="800" />
+  <img src="https://ghchart.rshang.in/?user=ashkanrabiee&theme=radical" alt="Ashkan's GitHub Contributions" width="400" />
 </p>
 
 
